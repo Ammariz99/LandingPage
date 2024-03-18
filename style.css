@@ -417,6 +417,7 @@ body {
     margin-left: 90px;
     margin-top: -40px;
     white-space: nowrap;
+    
   }
 
   .ellipse-pic {
@@ -434,9 +435,10 @@ body {
   }
 
   .text-3 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     margin-left: 30px;
     margin-top: -8vh;
+    text-wrap: nowrap;
   }
 
   .ellipse-pic {
@@ -1280,7 +1282,7 @@ display: flex;
   }
 
   .text-9{
-    margin-left: 15%;
+    margin-left: 19%;
     font-size: 0.6rem;
   }
   .text-10 {
